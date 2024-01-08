@@ -1,4 +1,4 @@
-package com.KoreaIT.java.JDBCAM;
+package com.KoreaIT.java.JDBCAM.test;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
